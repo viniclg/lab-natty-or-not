@@ -19,7 +19,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
 
 ### Template
 
-```markdown
+
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
@@ -43,7 +43,7 @@ O podcast ficou muito bom! Mesmo não sendo perfeito, fiz o possivel para torná
 
 ## 💭 Reflexão (Opcional)
 Gostei muito do desafio, mas é meio que impossivel deixar mais humano text-to-speech, já que é definitivo que vai ter imperfeições no audio de IA. Mas tirando isso foi um desafio muito divertido!
-```
+
 
 ### Exemplos e Insigths
 
