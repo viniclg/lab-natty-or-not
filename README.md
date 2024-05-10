@@ -41,16 +41,3 @@ O podcast ficou muito bom! Mesmo não sendo perfeito, fiz o possivel para torná
 
 ## 💭 Reflexão (Opcional)
 Gostei muito do desafio, mas é meio que impossivel deixar mais humano text-to-speech, já que é definitivo que vai ter imperfeições no audio de IA. Mas tirando isso foi um desafio muito divertido!
-
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
