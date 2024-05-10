@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,19 +23,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um podcast sobre o mundo do jogo Fallout New Vegas feito por Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://poe.com)
+[Shakker.IA](https://www.shakker.ai)
+[ElevenLabs](Elevenlabs.io)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro utilizei o ChatGPT para fazer um título para o podcast e peguei os resultados que me agradavam para processá-los.
+Escolhi o título: Contos da Terra Devastada
+Com o título em mãos, criei o audio do podcast usando o ElevenLabs, tendo em mente o título escolhido e para aquele episódio eu utilizei um dos títulos produzidos que foi: All In em New Vegas.
+Neste episódio foquei em um dos jogos que é o Fallout New Vegas.
+Mudei algumas partes para ficarem mais limpas e melhores de escutar, também utilizei uma linguagem mais informal.
+Com o aúdio feito, eu coloquei no capcut para editar e pedi algumas músicas do próprio jogo para colocar de fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O podcast ficou muito bom! Mesmo não sendo perfeito, fiz o possivel para torná-lo mais humano.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Gostei muito do desafio, mas é meio que impossivel deixar mais humano text-to-speech, já que é definitivo que vai ter imperfeições no audio de IA. Mas tirando isso foi um desafio muito divertido!
 ```
 
 ### Exemplos e Insigths
